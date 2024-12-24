@@ -1,4 +1,4 @@
-function Footer() {
+function Header() {
     
     return(
         <header>
@@ -8,4 +8,4 @@ function Footer() {
     )
 }
 
-export default Footer
+export default Header

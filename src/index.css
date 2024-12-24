@@ -67,3 +67,20 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.card {
+  border: 1px solid hsl(0, 0%, 19%);
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 5px 5px 25px hsla(0, 0%, 29%, 0.11);
+  display: inline-block;
+  margin: 25px;
+}
+
+.image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 40px hsla(0, 0%, 29%, 0.11);
+}
